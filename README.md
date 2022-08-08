@@ -1,1 +1,1 @@
-Hi. I'am Bayu Frontend Developer
+Hi. I'am Frontend Developer
