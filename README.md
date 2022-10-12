@@ -1,4 +1,4 @@
-Hi. I'am Frontend Developer
+Hi. I'am Frontend Developer with 1+ years of experience in building responsive web design. 
 ___
 ### Programming Language
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
@@ -6,13 +6,13 @@ ___
 
 ___
 ### Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-000&logo=HTML5)
+![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
-![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
-![VueJs](https://img.shields.io/badge/-Vue-000?&logo=vuedotjs)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-000?&logo=tailwindcss)
-![React](https://img.shields.io/badge/-ReactJs-000?logo=react)
+![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label=)
+![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=)
+![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
+![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
+![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
 
 ___
 ### Tools
