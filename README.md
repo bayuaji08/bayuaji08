@@ -1,4 +1,4 @@
-Hi. I'am Frontend Developer with 1+ years of experience in building responsive web design. 
+Hi. I'am Frontend Developer with 1+ years of experience in building responsive web applications. 
 ___
 ### Programming Language
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
