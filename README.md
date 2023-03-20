@@ -3,7 +3,7 @@ ___
 ### Programming Language
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Typescript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ___
