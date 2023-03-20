@@ -13,6 +13,7 @@ ___
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
 ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
+![Nuxt](https://img.shields.io/static/v1?style=for-the-badge&message=nuxt&color=49768e&logo=nuxt.js&logoColor=00DC82&label=)
 
 ___
 ### Tools
