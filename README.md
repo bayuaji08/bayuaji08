@@ -1,10 +1,10 @@
 Hi. I'am Frontend Developer with 1+ years of experience in building responsive web applications. 
 ___
 ### Programming Language
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![JavaScript]([https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E))
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ___
 ### Tech Stack
