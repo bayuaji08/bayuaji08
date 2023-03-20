@@ -2,7 +2,7 @@ Hi. I'am Frontend Developer with 1+ years of experience in building responsive w
 ___
 ### Programming Language
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![JavaScript]([https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E))
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
