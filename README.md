@@ -23,6 +23,8 @@ ___
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-c3002f?style=for-the-badge&logo=angulAR&logoColor=white)
+
 
 ___
 ### Tools
@@ -34,6 +36,7 @@ ___
 ![Gitlab](https://img.shields.io/badge/-Gitlab-000?&logo=gitlab)
 ![NPM](https://img.shields.io/badge/-npm-000?&logo=npm)
 ![Discord](https://img.shields.io/badge/-Discord-000?&logo=discord)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=ubuntu)
 
 ___
 ### Statistics
